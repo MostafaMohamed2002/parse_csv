@@ -32,6 +32,7 @@ for lang, folder in langs.items():
     xml_lines = ['<?xml version="1.0" encoding="utf-8"?>', "<resources>"]
 
     current_feature = None
+    seen_keys = set()  # ✅ track duplicate keys
 
     for _, row in df.iterrows():
         expr = row["Word-Expression"]
@@ -50,6 +51,11 @@ for lang, folder in langs.items():
         # Otherwise: normal string row
         key = clean_key(expr)
 
+        # ✅ Skip duplicate keys
+        if key in seen_keys:
+            continue
+        seen_keys.add(key)
+
         value = row.get(lang, "")
         if pd.isna(value) or str(value).strip() == "":
             continue  # skip missing translations
@@ -63,4 +69,4 @@ for lang, folder in langs.items():
     with open(folder_path / "strings.xml", "w", encoding="utf-8") as f:
         f.write("\n".join(xml_lines))
 
-print("✅ XML files generated with feature comments in", output_dir.resolve())
+print("✅ XML files generated with feature comments and duplicate keys removed in", output_dir.resolve())

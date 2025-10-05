@@ -36,7 +36,6 @@
     <string name="working_hours">کاتەکانی کارکردن</string>
     <string name="about_your_dealership">نزیکەی پێشانگاکە</string>
     <string name="upload_dealership_kyc_documents">فایلەکانی کڕیارەکەت بناسە (KYC)ی پێشانگاکە باربکە</string>
-    <string name="working_hours">کاتەکانی کارکردن</string>
     <string name="sunday">یەک شەممە </string>
     <string name="monday">دووشەممە</string>
     <string name="tuesday">سێ شەممە </string>
@@ -50,7 +49,6 @@
     <string name="brand_name">ناوی بریکار</string>
     <string name="brand_phone_number">ژمارەی تەلەفۆنی بریکارەکە</string>
     <string name="sales_agent">بریکاری فرۆشتن</string>
-    <string name="web_or_social_media">ماڵپەڕ یان سۆشیال میدیا</string>
     <string name="upload_brand_kyc_documents">فایلەکانی کڕیارەکەت بناسە (KYC). بریکارەکە دابەزێنە</string>
     <string name="click_to_download_or_drag_and_drop">بۆ بارکردن یان ڕاکێشان و دابەزاندن کلیک بکە</string>
     <string name="brand_kyc_documents">فایلەکانی دەزگای کڕیارەکەت بناسە (KYC).</string>
@@ -92,7 +90,6 @@
     <string name="delete">سڕینەوە</string>
     <string name="cancel">هەڵوەشاندنەوە</string>
     <string name="renew_the_ad">ڕیکلامەکە نوێ بکەرەوە</string>
-    <string name="performance">ئەدا</string>
     <string name="engine_size">قەبارەی بزوێنەر</string>
     <string name="engine_power">هێزی بزوێنەر</string>
     <string name="engine_torque">هێزی بزوێنەر</string>
@@ -150,7 +147,6 @@
     <string name="search_for_a_model">مۆدێلی گەڕان</string>
     <string name="search_for_a_model_variant">گەڕان بەدوای تریمەکاندا</string>
     <string name="car_description">وەسفکردنی ئۆتۆمبێل</string>
-    <string name="plate_type">جۆری ژمارە</string>
     <string name="price">نرخ</string>
     <string name="price_">نرخ $</string>
     <string name="price_in_iqd">نرخی IQD</string>
@@ -226,8 +222,6 @@
 
     <!-- Rent car -->
     <string name="rent_your_car">ئۆتۆمبێلەکەت بە کرێ بده </string>
-    <string name="search_vin_number">بگەڕێ بەدوای ژمارەی شاسی</string>
-    <string name="proceed_without_vin_number">بەردەوام بە بەبێ ژمارەی شاسی</string>
     <string name="daily">ڕۆژانە</string>
     <string name="weekly">هەفتانە</string>
     <string name="monthly">مانگانە</string>
@@ -247,8 +241,6 @@
     <string name="pending_approval">بە چاوەڕوانی پەسەندکردن</string>
     <string name="edit">دەستکاریکردن </string>
     <string name="rented">بە کرێ دراوە</string>
-    <string name="sold">فڕۆشرا </string>
-    <string name="renew_the_ad">ڕیکلامەکە نوێ بکەرەوە</string>
     <string name="day_left">ڕۆژێک ماوە</string>
     <string name="days_left">چەند ڕۆژێک ماوە</string>
     <string name="expire">بەسەرچوو</string>
@@ -273,17 +265,12 @@
 
     <!-- Check my car -->
     <string name="check_your_car">دڵنیابه لە ئۆتۆمبێلەکەت</string>
-    <string name="you_can_write_it_or_photograph_it_and_we_will_take_care_of_the_rest">تایپی بکە یان وێنەی بگرە، ئەوەی تریش دەیکەین.</string>
     <string name="you_must_confirm_your_phone_number_to_be_able_to_check_your_car">ژمارەی تەلەفۆنەکەت پشتڕاست بکەرەوە بۆ پشکنینی ئۆتۆمبێلەکەت.</string>
     <string name="guaranteed_secure_transactions_your_payment_is_processed_with_the_utmost_care_and_encryption_for_a_worryfree_experience">دڵنیابە لە سەلامەتی مامەڵەکانی پارەدان: پارەدانەکەت بە ئەوپەڕی وردبینی و کۆدکردنەوە پرۆسێس دەکرێت بۆ ئەزموونێکی بێ نیگەرانی.</string>
-    <string name="tax">باج</string>
     <string name="gain_access_to_car_information_confidently_ensuring_a_transparent_and_trusted_transaction">دەتوانیت بە متمانەوە دەستت بگات بە زانیارییەکانی ئۆتۆمبێل، دڵنیابوون لە مامەڵەیەکی شەفاف و متمانەپێکراو.</string>
     <string name="your_one_time_payment_ensures_access_to_extensive_car_information_if_details_are_not_found_rest_easy_no_charge_will_be_applied_prioritizing_your_confidence_in_our_service">پارەدانت بۆ یەک جار گەرەنتی گەیشتنت بە گشت زانیارییەکانی ئۆتۆمبێلەکە دەدات . ئەگەر زانیارییەکان نەدۆزرانەوە ، نیگەران مەبە ، هیچ بڕە پێدانێکی پارەو لەسەر هەژمار ناکرێت ، لەگەڵ پێدانی مافی تۆ بە متمانە کردن بە خزمەتگوزارییەکانمان.</string>
-    <string name="basic_details">وردەکارییە بنەڕەتییەکان</string>
-    <string name="exterior_color">ڕەنگی دەرەوە</string>
     <string name="standard_seating">شوێنی دانیشتنی ئاسایی</string>
     <string name="tiers">تایەی ئۆتۆمبێل</string>
-    <string name="gearbox">گێڕ </string>
     <string name="interior_trim">تایبەتمەندییە ناوخۆییەکان</string>
     <string name="drive_line">هێڵی لێخوڕین</string>
     <string name="destination_charge">پارەی شوێنی مەبەست</string>
@@ -294,11 +281,9 @@
     <string name="rust_distance">مەودای ژەنگ</string>
     <string name="curb_weight_automatic">کێشی تارە ئۆتۆماتیکی دەبێت</string>
     <string name="highway_mileage">میلەکانی ڕێگاوبان</string>
-    <string name="curb_weight_automatic">تیرەی خولانەوەی</string>
     <string name="turning_diameter">تیرەی خولانەوەی</string>
     <string name="city_mileage">ژمارەی کیلۆمەترەکانی ناو شار</string>
     <string name="engine">قەبارەی بزوێنەر</string>
-    <string name="dimensions__capacity">ڕەهەند و توانا</string>
     <string name="ground_clearance">هێڵی زەوی ئۆتۆمبێلەکە</string>
     <string name="rear_shoulder_tie_downs">شانەکانی دواوەی ئۆتۆمبێل</string>
     <string name="front_shoulder_room">ژووری پێشەوەی شان</string>
@@ -325,30 +310,20 @@
     <string name="production_seq_number">ژمارەی زنجیرەی بەرهەمهێنان</string>
     <string name="there_was_no_pictures_of_your_car">ببورە، نەمانتوانی ئۆتۆمبێلەکەت بدۆزینەوە بەو ژمارەیەی شاسی کە پێشکەش کراوە</string>
     <string name="no_money_will_be_deducted_from_you">هیچ پارەیەک لە کارتەکەت لێ نەبڕدرا</string>
-    <string name="chassis_number_vin">ژمارەی شاسی</string>
-    <string name="make">کۆمپانیا</string>
-    <string name="price">نرخ</string>
     <string name="year">ساڵ</string>
     <string name="depth">قووڵی</string>
-    <string name="model">مۆدێل</string>
-    <string name="body_type">جۆری بۆدی</string>
-    <string name="width">پانی</string>
     <string name="4_wheel_drive__axle_wheel_drive">دەبڵ ئەکسیل /ئەکسیل ویل درایڤ</string>
-    <string name="height">بەرزی</string>
-    <string name="length">دڕێژەی </string>
     <string name="pickup_truck_bed_liner">قەبارەی سەندوق</string>
     <string name="cd_player">سی دی پلەیەر</string>
     <string name="abs_breaks">برێک ABS</string>
     <string name="amfm_radio">ڕادیۆ AM FM</string>
     <string name="cd_changer">گۆڕینی سی دی</string>
-    <string name="drive_line">هێڵی لێخوڕین</string>
     <string name="dvd_player">دی ڤی دی پلەیەر</string>
     <string name="fog_lights">گڵۆپی تەم</string>
     <string name="rear_wiper">فڵچە</string>
     <string name="skid_plate">پلێتی خلیسکان</string>
     <string name="subwoofer">ئێمپلیفایەر</string>
     <string name="track_rear">ڕێڕەوی پشتەوە</string>
-    <string name="wheelbase">ویلبەیس</string>
     <string name="tachometer">تاکۆمێتەر</string>
     <string name="track_front">ڕێڕەوی پێشەوە</string>
     <string name="alloy_wheels">تایەی کانزایی</string>
@@ -411,7 +386,6 @@
     <string name="front_split_bench_seat">کورسی پێشەوەی دابەشکراو</string>
     <string name="heated_steering_wheel">سوکانێکی گەرم کەرەوە</string>
     <string name="locking_differential">جیاوازی قفڵکردن</string>
-    <string name="pickup_truck_bed_liner">لاینەری جێگەی نوستن لە ئۆتۆمبێلی پیکاپ</string>
     <string name="second_row_heated_seat">کورسی ڕیزی دووەم گەرم دەکرێت</string>
     <string name="second_row_side_airbag">ئەیرباگی لایەنی ڕیزی دووەم</string>
     <string name="tire_pressure_monitor">چاودێریکردنی پەستانی تایەی ئۆتۆمبێل</string>
@@ -468,14 +442,6 @@
     <string name="speed_manual">خێراییەکانی دەستی</string>
     <string name="black_cloth">ڕەش، قوماش</string>
     <string name="speed_automatic">خێراییە ئۆتۆماتیکیەکان</string>
-    <string name="saloon">صاڵۆن</string>
-    <string name="estate">ستێشن </string>
-    <string name="suv">دەبڵ ئەکسڵ</string>
-    <string name="mpv">فرە مەبەست</string>
-    <string name="pickup">پیكاب</string>
-    <string name="hatchback">هاچباک</string>
-    <string name="coupe">کوپ</string>
-    <string name="convertible">گۆڕاو </string>
     <string name="sedan">صاڵۆن</string>
     <string name="wagon">ستێشن </string>
     <string name="sports_van">دەبڵ ئەکسڵ</string>
@@ -483,16 +449,7 @@
     <string name="pickup_truck">پیكاب</string>
     <string name="minivan">فرە مەبەست</string>
     <string name="crossover">دەبڵ ئەکسڵ</string>
-    <string name="hatchback">هاچباک</string>
-    <string name="suv">دەبڵ ئەکسڵ</string>
-    <string name="saloon">صاڵۆن</string>
-    <string name="estate">ستێشن </string>
-    <string name="coupe">کوپ</string>
-    <string name="convertible">گۆڕاو </string>
-    <string name="mpv">فرە مەبەست</string>
-    <string name="pickup">پیكاب</string>
     <string name="station_wagon">فرە مەبەست</string>
-    <string name="crossover">فرە مەبەست</string>
 
     <!-- profile -->
     <string name="change_language">زمانەکە بگۆڕە </string>
@@ -506,7 +463,6 @@
     <string name="about">دەربارەی</string>
     <string name="other">ئی تر</string>
     <string name="transaction">چالاکییە بازرگانییەکان</string>
-    <string name="performance">ئەدا</string>
     <string name="check_my_car">دڵنیابه لە ئۆتۆمبێلەکەت</string>
     <string name="personal_information">زانیاری کەسی</string>
     <string name="my_profile">پرۆفایڵەکەم</string>
@@ -516,17 +472,11 @@
     <string name="product_views">بینینی ڕێکلامەکان</string>
     <string name="profile_views">بینینی ئەکاونتەکان</string>
     <string name="most_viewed">زۆرترین بینراو</string>
-    <string name="transaction">چالاکییە بازرگانییەکان</string>
-    <string name="monthly">مانگانە</string>
-    <string name="weekly">هەفتانە</string>
-    <string name="daily">ڕۆژانە</string>
     <string name="invoice_id">ژمارەی وەصڵ</string>
     <string name="view">ئۆفەرێک</string>
     <string name="status">بارودۆخ</string>
-    <string name="price">نرخەکەی</string>
     <string name="male">نێرینە</string>
     <string name="female">مێینە</string>
-    <string name="save_change">گۆڕانکارییەکان بپارێزە</string>
     <string name="main_information">زانیاری سەرەکی</string>
     <string name="documents">فایلەکانی کڕیارەکەت بناسە (KYC)</string>
     <string name="change">گۆڕانکاری</string>
@@ -537,7 +487,6 @@
     <string name="confirm_logout">دەرچوون پشتڕاست بکەرەوە</string>
     <string name="you_are_about_to_log_out_of_your_account">دڵنیای کە دەتەوێت بچیتە دەرەوە؟</string>
     <string name="contact_us">پەیوەندیمان پێوە بکەن</string>
-    <string name="delete_account">ئەکاونتەکە بسڕەوە</string>
     <string name="name">ناو</string>
     <string name="day_of_birth">بەرواری لەدایکبوون</string>
     <string name="select_a_reason">هۆکارەکە هەڵبژێرە</string>

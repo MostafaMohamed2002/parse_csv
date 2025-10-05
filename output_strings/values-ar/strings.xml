@@ -36,7 +36,6 @@
     <string name="working_hours">ساعات العمل</string>
     <string name="about_your_dealership">حول معرضك</string>
     <string name="upload_dealership_kyc_documents">تحميل ملفات اعرف عميلك (KYC) الخاصة بالمعرض</string>
-    <string name="working_hours">ساعات العمل</string>
     <string name="sunday">الأحد</string>
     <string name="monday">الاثنين</string>
     <string name="tuesday">الثلاثاء</string>
@@ -50,7 +49,6 @@
     <string name="brand_name">أسم الوكالة</string>
     <string name="brand_phone_number">رقم هاتف الوكالة</string>
     <string name="sales_agent">وكيل المبيعات</string>
-    <string name="web_or_social_media">الموقع الإلكتروني أو وسائل التواصل الاجتماعي</string>
     <string name="upload_brand_kyc_documents">تحميل ملفات اعرف عميلك (KYC) الخاصة بالوكالة</string>
     <string name="click_to_download_or_drag_and_drop">اضغط للتحميل أو السحب والإفلات</string>
     <string name="brand_kyc_documents">ملفات اعرف عميلك (KYC) الخاصة بالوكالة</string>
@@ -92,7 +90,6 @@
     <string name="delete">حذف</string>
     <string name="cancel">إلغاء</string>
     <string name="renew_the_ad">تجديد الإعلان</string>
-    <string name="performance">الأداء</string>
     <string name="engine_size">حجم المحرك</string>
     <string name="engine_power">قوة المحرك</string>
     <string name="engine_torque">عزم المحرك</string>
@@ -150,7 +147,6 @@
     <string name="search_for_a_model">البحث في الموديلات</string>
     <string name="search_for_a_model_variant">البحث في الفئات</string>
     <string name="car_description">وصف السيارة</string>
-    <string name="plate_type">نوع الرقم</string>
     <string name="price">السعر</string>
     <string name="price_">السعر $</string>
     <string name="price_in_iqd">السعر بالدينار العراقي</string>
@@ -226,8 +222,6 @@
 
     <!-- Rent car -->
     <string name="rent_your_car">أجر سيارتك </string>
-    <string name="search_vin_number">ابحث عن رقم الشاصي</string>
-    <string name="proceed_without_vin_number">تابع بدون رقم الشاصي</string>
     <string name="daily">يومياً</string>
     <string name="weekly">أسبوعياً</string>
     <string name="monthly">شهرياً</string>
@@ -247,8 +241,6 @@
     <string name="pending_approval">قيد الموافقة</string>
     <string name="edit">تعديل</string>
     <string name="rented">تم الإيجار</string>
-    <string name="sold">تم البيع</string>
-    <string name="renew_the_ad">تجديد الإعلان</string>
     <string name="day_left">يوم متبقي</string>
     <string name="days_left">أيام متبقية</string>
     <string name="expire">انتهت صلاحيته</string>
@@ -273,17 +265,12 @@
 
     <!-- Check my car -->
     <string name="check_your_car">تحقق من سيارتك</string>
-    <string name="you_can_write_it_or_photograph_it_and_we_will_take_care_of_the_rest">اكتبه أو قم بتصويره، وسنتولى الباقي.</string>
     <string name="you_must_confirm_your_phone_number_to_be_able_to_check_your_car">قم بتأكيد رقم هاتفك للتحقق من سيارتك.</string>
     <string name="guaranteed_secure_transactions_your_payment_is_processed_with_the_utmost_care_and_encryption_for_a_worryfree_experience">ضمان سلامة تعاملات الدفع: تتم معالجة دفع أموالك بأقصى قدر من العناية والتشفير للحصول على تجربة خالية من القلق.</string>
-    <string name="tax">الضريبة</string>
     <string name="gain_access_to_car_information_confidently_ensuring_a_transparent_and_trusted_transaction">يمكنك الوصول إلى معلومات السيارة بثقة، مما يضمن إجراء معاملة شفافة وموثوقة.</string>
     <string name="your_one_time_payment_ensures_access_to_extensive_car_information_if_details_are_not_found_rest_easy_no_charge_will_be_applied_prioritizing_your_confidence_in_our_service">يضمن دفعك لمرة واحدة الوصول إلى معلومات شاملة عن السيارة. إذا لم يتم العثور على التفاصيل، فلا تقلق، فلن يتم تطبيق أي رسوم دفع، مع إعطاء الأولوية لثقتك في خدمتنا</string>
-    <string name="basic_details">التفاصيل الأساسية</string>
-    <string name="exterior_color">اللون الخارجي</string>
     <string name="standard_seating">أماكن جلوس عادية</string>
     <string name="tiers">الإطارات</string>
-    <string name="gearbox">ناقل الحركة</string>
     <string name="interior_trim">المواصفات الداخلية</string>
     <string name="drive_line">خط القيادة</string>
     <string name="destination_charge">رسوم الوجهة</string>
@@ -294,11 +281,9 @@
     <string name="rust_distance">مسافة الصدأ</string>
     <string name="curb_weight_automatic">الوزن الفارغ اوتوماتيكي</string>
     <string name="highway_mileage">عدد الكيلومترات في الطريق السريع</string>
-    <string name="curb_weight_automatic">قطر الدوران</string>
     <string name="turning_diameter">قطر الدوران</string>
     <string name="city_mileage">عدد الكيلومترات داخل المدينة</string>
     <string name="engine">حجم المحرك</string>
-    <string name="dimensions__capacity">الأبعاد والسعة</string>
     <string name="ground_clearance">الخلوص الأرضي للسيارة</string>
     <string name="rear_shoulder_tie_downs">أحزمة ربط الكتف الخلفية للسيارة</string>
     <string name="front_shoulder_room">مساحة الكتف الأمامية</string>
@@ -325,30 +310,20 @@
     <string name="production_seq_number">رقم تسلسل الإنتاج</string>
     <string name="there_was_no_pictures_of_your_car">عذرًا، لم نتمكن من العثور على سيارتك التي تحتوي على رقم الشاصي المقدم</string>
     <string name="no_money_will_be_deducted_from_you">لم يتم خصم أي رسوم من بطاقتك</string>
-    <string name="chassis_number_vin">رقم الشاصي </string>
-    <string name="make">الشركة</string>
-    <string name="price">السعر</string>
     <string name="year">السنة</string>
     <string name="depth">العمق</string>
-    <string name="model">الموديل</string>
-    <string name="body_type">نوع الهيكل</string>
-    <string name="width">العرض</string>
     <string name="4_wheel_drive__axle_wheel_drive">الدفع الرباعي / الدفع بالعجلات المحورية</string>
-    <string name="height">الارتفاع</string>
-    <string name="length">الطول</string>
     <string name="pickup_truck_bed_liner">صافي صندوق البضائع</string>
     <string name="cd_player">مشغل سي دي</string>
     <string name="abs_breaks">الفرامل ABS</string>
     <string name="amfm_radio">راديو ايه ام اف ام</string>
     <string name="cd_changer">مغير الأقراص المضغوطة</string>
-    <string name="drive_line">خط القيادة</string>
     <string name="dvd_player">مشغل دي في دي</string>
     <string name="fog_lights">مصابيح الضباب</string>
     <string name="rear_wiper">ماسحة خلفية</string>
     <string name="skid_plate">لوحة انزلاقية</string>
     <string name="subwoofer">مضخم صوت</string>
     <string name="track_rear">المسار الخلفي</string>
-    <string name="wheelbase">قاعدة العجلات</string>
     <string name="tachometer">مقياس سرعة الدوران</string>
     <string name="track_front">المسار الأمامي</string>
     <string name="alloy_wheels">عجلات معدنية</string>
@@ -411,7 +386,6 @@
     <string name="front_split_bench_seat">مقعد أمامي مقسم</string>
     <string name="heated_steering_wheel">عجلة قيادة مُدفأة</string>
     <string name="locking_differential">قفل التفاضلية</string>
-    <string name="pickup_truck_bed_liner">بطانة سرير شاحنة بيك اب</string>
     <string name="second_row_heated_seat">مقعد الصف الثاني مدفأ</string>
     <string name="second_row_side_airbag">كيس هوائي جانبي للصف الثاني</string>
     <string name="tire_pressure_monitor">مراقبة ضغط الإطارات</string>
@@ -469,14 +443,6 @@
     <string name="speed_manual"> سرعات يدوي</string>
     <string name="black_cloth">أسود، قماش</string>
     <string name="speed_automatic"> سرعات اوتوماتيك</string>
-    <string name="saloon">صالون</string>
-    <string name="estate"> ستيشن</string>
-    <string name="suv">دفع رباعي</string>
-    <string name="mpv"> متعددة الأغراض</string>
-    <string name="pickup"> بيك اب</string>
-    <string name="hatchback">هاتشباك</string>
-    <string name="coupe">كوبيه</string>
-    <string name="convertible"> مكشوفة</string>
     <string name="sedan">صالون</string>
     <string name="wagon"> ستيشن</string>
     <string name="sports_van">دفع رباعي</string>
@@ -484,16 +450,7 @@
     <string name="pickup_truck"> بيك اب</string>
     <string name="minivan"> متعددة الأغراض</string>
     <string name="crossover">دفع رباعي</string>
-    <string name="hatchback">هاتشباك</string>
-    <string name="suv">دفع رباعي</string>
-    <string name="saloon">صالون</string>
-    <string name="estate"> ستيشن</string>
-    <string name="coupe">كوبيه</string>
-    <string name="convertible"> مكشوفة</string>
-    <string name="mpv"> متعددة الأغراض</string>
-    <string name="pickup"> بيك اب</string>
     <string name="station_wagon"> متعددة الأغراض</string>
-    <string name="crossover"> متعددة الأغراض</string>
 
     <!-- profile -->
     <string name="change_language">تغيير اللغة</string>
@@ -507,7 +464,6 @@
     <string name="about">حول</string>
     <string name="other">أخرى</string>
     <string name="transaction">النشاط التجاري </string>
-    <string name="performance">الأداء</string>
     <string name="check_my_car">تحقق من سيارتك</string>
     <string name="personal_information">المعلومات الشخصية</string>
     <string name="my_profile">ملفي الشخصي</string>
@@ -517,17 +473,11 @@
     <string name="product_views">مشاهدات الإعلانات</string>
     <string name="profile_views">مشاهدات الحساب</string>
     <string name="most_viewed">الأكثر مشاهدة</string>
-    <string name="transaction">النشاط التجاري </string>
-    <string name="monthly">شهرياً</string>
-    <string name="weekly">أسبوعياً</string>
-    <string name="daily">يومياً</string>
     <string name="invoice_id">رقم الفاتورة</string>
     <string name="view">عرض</string>
     <string name="status">الحالة</string>
-    <string name="price">السعر</string>
     <string name="male">ذكر</string>
     <string name="female">أنثى</string>
-    <string name="save_change">حفظ التغييرات</string>
     <string name="main_information">المعلومات الرئيسية</string>
     <string name="documents">ملفات اعرف عميلك (KYC)</string>
     <string name="change">تغيير</string>
@@ -538,7 +488,6 @@
     <string name="confirm_logout">تأكيد تسجيل الخروج</string>
     <string name="you_are_about_to_log_out_of_your_account">هل أنت متأكد أنك تريد تسجيل الخروج</string>
     <string name="contact_us">اتصل بنا</string>
-    <string name="delete_account">حذف الحساب</string>
     <string name="name">الاسم</string>
     <string name="day_of_birth">تاريخ الميلاد</string>
     <string name="select_a_reason">اختر السبب</string>

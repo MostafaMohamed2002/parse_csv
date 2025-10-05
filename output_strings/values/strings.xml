@@ -36,7 +36,6 @@
     <string name="working_hours">Working hours</string>
     <string name="about_your_dealership">About your dealership</string>
     <string name="upload_dealership_kyc_documents">Upload dealership KYC documents</string>
-    <string name="working_hours">Working hours</string>
     <string name="sunday">Sunday</string>
     <string name="monday">Monday</string>
     <string name="tuesday">Tuesday</string>
@@ -50,7 +49,6 @@
     <string name="brand_name">Brand name</string>
     <string name="brand_phone_number">Brand phone number</string>
     <string name="sales_agent">Sales agent</string>
-    <string name="web_or_social_media">Website or social media </string>
     <string name="upload_brand_kyc_documents">Upload brand KYC documents</string>
     <string name="click_to_download_or_drag_and_drop">Click to upload or drag and drop</string>
     <string name="brand_kyc_documents">Brand KYC documents</string>
@@ -92,7 +90,6 @@
     <string name="delete">Delete</string>
     <string name="cancel">Cancel</string>
     <string name="renew_the_ad">Renew ad</string>
-    <string name="performance">Performance</string>
     <string name="engine_size">Engine size </string>
     <string name="engine_power">Engine power </string>
     <string name="engine_torque">Engine torque</string>
@@ -151,7 +148,6 @@
     <string name="search_for_a_model">Search models</string>
     <string name="search_for_a_model_variant">Search model variants</string>
     <string name="car_description">Car description</string>
-    <string name="plate_type">Plate type</string>
     <string name="price">Price</string>
     <string name="price_">Price $</string>
     <string name="price_in_iqd">Price IQD</string>
@@ -227,8 +223,6 @@
 
     <!-- Rent car -->
     <string name="rent_your_car">Rent your car</string>
-    <string name="search_vin_number">Search VIN number</string>
-    <string name="proceed_without_vin_number">Proceed without VIN number</string>
     <string name="daily">Daily</string>
     <string name="weekly">Weekly</string>
     <string name="monthly">Monthly</string>
@@ -248,8 +242,6 @@
     <string name="pending_approval">Pending approval</string>
     <string name="edit">Edit</string>
     <string name="rented">Rented</string>
-    <string name="sold">Sold</string>
-    <string name="renew_the_ad">Renew ad</string>
     <string name="day_left">Day left</string>
     <string name="days_left">Days left</string>
     <string name="expire">Expired</string>
@@ -274,17 +266,12 @@
 
     <!-- Check my car -->
     <string name="check_your_car">Check your car</string>
-    <string name="you_can_write_it_or_photograph_it_and_we_will_take_care_of_the_rest">Write it or photograph it, and we will handle the rest.</string>
     <string name="you_must_confirm_your_phone_number_to_be_able_to_check_your_car">Verify your phone number to check your car.</string>
     <string name="guaranteed_secure_transactions_your_payment_is_processed_with_the_utmost_care_and_encryption_for_a_worryfree_experience">Guaranteed secure transactions: Your payment is processed with the utmost care and encryption for a worry-free experience.</string>
-    <string name="tax">Tax</string>
     <string name="gain_access_to_car_information_confidently_ensuring_a_transparent_and_trusted_transaction">Gain access to car Information confidently, ensuring a transparent and trusted transaction.</string>
     <string name="your_one_time_payment_ensures_access_to_extensive_car_information_if_details_are_not_found_rest_easy_no_charge_will_be_applied_prioritizing_your_confidence_in_our_service">Your one time payment ensures access to extensive car information. If details are not found, rest easy, no charge will be applied, prioritizing your confidence in our service</string>
-    <string name="basic_details">Basic details</string>
-    <string name="exterior_color">Exterior colour</string>
     <string name="standard_seating">Standard seating</string>
     <string name="tiers">Tires</string>
-    <string name="gearbox">Gearbox</string>
     <string name="interior_trim">Interior trim</string>
     <string name="drive_line">Drive line</string>
     <string name="destination_charge">Destination charge</string>
@@ -295,11 +282,9 @@
     <string name="rust_distance">Rust distance</string>
     <string name="curb_weight_automatic">Curb weight Automatic</string>
     <string name="highway_mileage">Highway mileage</string>
-    <string name="curb_weight_automatic">Turning diameter</string>
     <string name="turning_diameter">Turning diameter</string>
     <string name="city_mileage">City mileage</string>
     <string name="engine">Engine size </string>
-    <string name="dimensions__capacity">Dimensions and capacity</string>
     <string name="ground_clearance">Ground clearance</string>
     <string name="rear_shoulder_tie_downs">Rear Shoulder tie downs</string>
     <string name="front_shoulder_room">Front shoulder room</string>
@@ -326,30 +311,20 @@
     <string name="production_seq_number">Production seq number</string>
     <string name="there_was_no_pictures_of_your_car">Sorry, we couldn&#x27;t find your car with the VIN number provided.</string>
     <string name="no_money_will_be_deducted_from_you">No charge was deducted from your card</string>
-    <string name="chassis_number_vin">Chassis number (VIN)</string>
-    <string name="make">Make</string>
-    <string name="price">Price</string>
     <string name="year">Year</string>
     <string name="depth">Depth</string>
-    <string name="model">Model</string>
-    <string name="body_type">Body type</string>
-    <string name="width">Width</string>
     <string name="4_wheel_drive__axle_wheel_drive">4 wheel drive / Axle wheel drive</string>
-    <string name="height">Height</string>
-    <string name="length">Length</string>
     <string name="pickup_truck_bed_liner">Pickup truck bed liner</string>
     <string name="cd_player">Cd player</string>
     <string name="abs_breaks">ABS breaks</string>
     <string name="amfm_radio">AM/FM radio</string>
     <string name="cd_changer">Cd changer</string>
-    <string name="drive_line">Drive line</string>
     <string name="dvd_player">DVD player</string>
     <string name="fog_lights">Fog lights</string>
     <string name="rear_wiper">Rear wiper</string>
     <string name="skid_plate">Skid plate</string>
     <string name="subwoofer">Subwoofer</string>
     <string name="track_rear">Track rear</string>
-    <string name="wheelbase">Wheelbase</string>
     <string name="tachometer">Tachometer</string>
     <string name="track_front">Track front</string>
     <string name="alloy_wheels">Alloy wheels</string>
@@ -412,7 +387,6 @@
     <string name="front_split_bench_seat">Front split bench seat</string>
     <string name="heated_steering_wheel">Heated steering wheel</string>
     <string name="locking_differential">Locking differential</string>
-    <string name="pickup_truck_bed_liner">Pickup truck bed liner</string>
     <string name="second_row_heated_seat">Second row heated seat</string>
     <string name="second_row_side_airbag">Second row side airbag</string>
     <string name="tire_pressure_monitor">Tire pressure monitor</string>
@@ -470,14 +444,6 @@
     <string name="speed_manual">Speed Manual</string>
     <string name="black_cloth">Black, cloth</string>
     <string name="speed_automatic">Speed Automatic</string>
-    <string name="saloon">Saloon</string>
-    <string name="estate">Estate</string>
-    <string name="suv">SUV</string>
-    <string name="mpv">MPV</string>
-    <string name="pickup">Pickup</string>
-    <string name="hatchback">Hatchback</string>
-    <string name="coupe">Coupe</string>
-    <string name="convertible">Convertible</string>
     <string name="sedan">Saloon</string>
     <string name="wagon">Estate</string>
     <string name="sports_van">SUV</string>
@@ -485,16 +451,7 @@
     <string name="pickup_truck">Pickup</string>
     <string name="minivan">MPV</string>
     <string name="crossover">SUV</string>
-    <string name="hatchback">Hatchback</string>
-    <string name="suv">SUV</string>
-    <string name="saloon">Saloon</string>
-    <string name="estate">Estate</string>
-    <string name="coupe">Coupe</string>
-    <string name="convertible">Convertible</string>
-    <string name="mpv">MPV</string>
-    <string name="pickup">Pickup</string>
     <string name="station_wagon">MPV</string>
-    <string name="crossover">MPV</string>
 
     <!-- profile -->
     <string name="change_language">Change language</string>
@@ -508,7 +465,6 @@
     <string name="about">About</string>
     <string name="other">Other</string>
     <string name="transaction">Transactions</string>
-    <string name="performance">Performance</string>
     <string name="check_my_car">Check your car</string>
     <string name="personal_information">Personal information</string>
     <string name="my_profile">My profile</string>
@@ -518,17 +474,11 @@
     <string name="product_views">Ads views</string>
     <string name="profile_views">Profile views</string>
     <string name="most_viewed">Most viewed</string>
-    <string name="transaction">Transactions</string>
-    <string name="monthly">Monthly</string>
-    <string name="weekly">Weekly</string>
-    <string name="daily">Daily</string>
     <string name="invoice_id">INVOICE ID</string>
     <string name="view">View</string>
     <string name="status">STATUS</string>
-    <string name="price">PRICE</string>
     <string name="male">Male</string>
     <string name="female">Female</string>
-    <string name="save_change">Save changes</string>
     <string name="main_information">Main information</string>
     <string name="documents">KYC Documents</string>
     <string name="change">Change</string>
@@ -539,7 +489,6 @@
     <string name="confirm_logout">Confirm log out</string>
     <string name="you_are_about_to_log_out_of_your_account">Are you sure you want to log out</string>
     <string name="contact_us">Contact us </string>
-    <string name="delete_account">Delete account</string>
     <string name="name">Name</string>
     <string name="day_of_birth">Date of birth</string>
     <string name="select_a_reason">Select a reason</string>
