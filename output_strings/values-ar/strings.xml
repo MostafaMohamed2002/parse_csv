@@ -18,48 +18,120 @@
     <string name="personal">شخصي</string>
     <string name="dealer">تاجر</string>
     <string name="brand">وكالة</string>
+    <string name="phone_number_or_email">رقم الهاتف أو البريد الإلكتروني</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="phone_number">رقم الهاتف</string>
     <string name="basic_details">التفاصيل الأساسية</string>
-    <string name="address">العنوان</string>
     <string name="submit">تقديم </string>
-    <string name="select_your_business_focus">اختر مجال عملك</string>
-    <string name="cars">سيارات </string>
-    <string name="spares">قطع غيار</string>
-    <string name="both">كلاهما</string>
     <string name="a_one_time_password_has_been_sent_to_your_email">لقد تم إرسال كلمة مرور لمرة واحدة إلى بريدك الإلكتروني.</string>
     <string name="a_one_time_password_has_been_sent_to_your_phone_number">لقد تم إرسال كلمة مرور لمرة واحدة إلى رقم هاتفك</string>
     <string name="date_of_birth">تاريخ الميلاد</string>
     <string name="continue">استمر</string>
-    <string name="dealership_details">تفاصيل المعرض</string>
-    <string name="dealership_phone_number">رقم هاتف المعرض</string>
-    <string name="service_provider">وكيل المبيعات</string>
-    <string name="web_or_social_media">الموقع الإلكتروني أو وسائل التواصل الاجتماعي</string>
-    <string name="working_hours">ساعات العمل</string>
-    <string name="about_your_dealership">حول معرضك</string>
-    <string name="upload_dealership_kyc_documents">تحميل ملفات اعرف عميلك (KYC) الخاصة بالمعرض</string>
-    <string name="sunday">الأحد</string>
-    <string name="monday">الاثنين</string>
-    <string name="tuesday">الثلاثاء</string>
-    <string name="wednesday">الأربعاء</string>
-    <string name="thursday">الخميس</string>
-    <string name="friday">الجمعة</string>
-    <string name="saturday">السبت</string>
-    <string name="dealership_kyc_documents">ملفات اعرف عميلك (KYC) الخاصة بالمعرض</string>
-    <string name="managers_full_name">اسم المدير</string>
-    <string name="brand_details">تفاصيل الوكالة</string>
-    <string name="brand_name">أسم الوكالة</string>
-    <string name="brand_phone_number">رقم هاتف الوكالة</string>
-    <string name="sales_agent">وكيل المبيعات</string>
-    <string name="upload_brand_kyc_documents">تحميل ملفات اعرف عميلك (KYC) الخاصة بالوكالة</string>
-    <string name="click_to_download_or_drag_and_drop">اضغط للتحميل أو السحب والإفلات</string>
-    <string name="brand_kyc_documents">ملفات اعرف عميلك (KYC) الخاصة بالوكالة</string>
-    <string name="about_your_brand">معلومات عن الوكالة</string>
+    <string name="city">المدينة</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="sell_smarter_with_ako_sayara">بيع بذكاء مع اكو سيارة</string>
+    <string name="download_our_exclusive_dealers_app_to_advertise_your_cars_manage_offers_and_grow_your_business">حمل تطبيق التاجر الخاص بنا للإعلان عن سياراتك وإدارة العروض وتنمية أعمالك.</string>
+    <string name="governorate">المحافظة</string>
+    <string name="search_for_a_governorate">البحث عن المحافظة</string>
+    <string name="search_for_a_city">البحث في المدن</string>
+    <string name="next">التالي</string>
+    <string name="done">اختر</string>
+    <string name="cancel">إلغاء</string>
+    <string name="didnt_receive_the_code_sign_up_with_email">لم تستلم الرمز؟ سجّل باستخدام بريدك الإلكتروني.</string>
+    <string name="didnt_receive_the_code_sign_up_with_phone_number">لم تستلم الرمز؟ سجّل باستخدام رقم هاتفك.</string>
+    <string name="select_date">حدد التاريخ</string>
+
+    <!-- Home -->
+    <string name="all">الكل</string>
+    <string name="buy_a_car">شراء سيارة</string>
+    <string name="rent_a_car">تأجير سيارة</string>
+    <string name="spares">قطع غيار</string>
+    <string name="features">المميزات</string>
+    <string name="check_your_car">تحقق من سيارتك</string>
+    <string name="compare">مقارنة </string>
+    <string name="journey">الرحلة</string>
+    <string name="trending">الأكثر رواجًا</string>
+    <string name="view_all">عرض الكل</string>
+    <string name="private_ad">إعلان خاص</string>
+    <string name="brand_warranty">ضمان الوكالة</string>
+    <string name="rent_deals">عروض الإيجار</string>
+    <string name="browse_by_brand">تصفح حسب الماركة</string>
+    <string name="new_cars">سيارات جديدة</string>
+    <string name="rent_cars">سيارات للإيجار</string>
+    <string name="close_to_you">قريبه منك</string>
+    <string name="popular_body_types">هيكل سيارة الأكثر شعبية</string>
+    <string name="saloon">صالون</string>
+    <string name="suv">دفع رباعي</string>
+    <string name="estate"> ستيشن</string>
+    <string name="hatchback">هاتشباك</string>
+    <string name="van">فان</string>
+    <string name="coupe">كوبيه</string>
+    <string name="convertible"> مكشوفة</string>
+    <string name="mpv"> متعددة الأغراض</string>
+    <string name="pickup"> بيك اب</string>
+    <string name="sell_your_car">بيع سيارتك</string>
+    <string name="now_you_have_the_chance_to_sell_your_car_and_get_the_best_price_for_it_">بيع سيارتك اليوم واحصل على أفضل سعر.</string>
+    <string name="new_car_deals">عروض سيارات جديدة</string>
+    <string name="recommended_spares_for_you">قطع الغيار الموصى بها لك</string>
+    <string name="spare_parts_all_in_one_section">جميع قطع الغيار في مكان واحد.</string>
+    <string name="check_it_out">استكشف الآن</string>
+    <string name="recommended_cars_for_rent">سيارات موصى بها للإيجار</string>
+    <string name="rent_your_car_">أجر سيارتك </string>
+    <string name="now_you_have_the_chance_to_rent_a_car_as_long_as_you_want">قم بالقيادة عندما تريد واكسب المال عندما لا تريد، وهي طريقة أكثر ذكاءً لتحويل سيارتك إلى مصدر دخل وفرصة</string>
+    <string name="rent_it_now">أجّرها الآن</string>
+    <string name="sell_it_now">بعها الآن</string>
+    <string name="helpful_tips">نصائح مفيدة</string>
+    <string name="continue_reading">تابع القراءة</string>
+    <string name="recently_sold_cars">السيارات المباعة مؤخرا</string>
+    <string name="brands_make">الشركات</string>
+    <string name="search_for_a_brand">البحث في الشركات</string>
+    <string name="body_types">نوع الهيكل</string>
+    <string name="car_buying_journey">رحلة شراء سيارة</string>
+    <string name="follow_these_straightforward_steps_to_find_compare_and_buy_your_perfect_vehicle">اتبع هذه الخطوات البسيطة لتجد، تقارن، وتشتري سيارتك المثالية</string>
+    <string name="search">البحث </string>
+    <string name="find_cars_that_match_your_style">ابحث عن السيارات التي تتناسب مع أسلوبك</string>
+    <string name="search_cars">البحث عن سيارات</string>
+    <string name="see_the_difference_to_make_a_smart_choice">شاهد الفرق لتتمكن من الاختيار بذكاء.</string>
+    <string name="try_comparison">جرب المقارنة</string>
+    <string name="connect">تواصل</string>
+    <string name="chat_directly_with_trusted_sellers">تحدث مباشرة مع البائعين الموثوق بهم.</string>
+    <string name="contact_sellers">تواصل مع البائعين</string>
+    <string name="buy_the_car">أشتري السيارة</string>
+    <string name="seal_the_deal_and_hit_the_road_">أبرم الصفقة وانطلق على الطريق.</string>
+    <string name="get_the_car">اقتنِ السيارة</string>
+    <string name="car_renting_journey">رحلة تأجير سيارة</string>
+    <string name="follow_these_straightforward_steps_to_find_the_perfect_car_to_rent">اتبع هذه الخطوات البسيطة للعثور على السيارة المثالية للأيجار!</string>
+    <string name="look_for_cars_by_location_rent_type_and_how_long_to_rent">ابحث عن السيارات حسب الموقع ونوع الإيجار والمدة.</string>
+    <string name="search_rentals">البحث عن سيارات للإيجار</string>
+    <string name="check_features_prices_and_reviews_to_spot_the_right_one_for_you">قم بمقارنة الميزات, الأسعار والمراجعات لاختيار الأنسب لك.</string>
+    <string name="get_in_touch_with_renter_directly_to_arrange_the_rental">اتصل بالمؤجر مباشرة لترتيب السيارة الخاصة بك للإيجار.</string>
+    <string name="connect_with_renter">تواصل مع المؤجِّرين</string>
+    <string name="collect__go">استلم وانطلق</string>
+    <string name="pick_up_your_car_and_be_on_your_way">استلم سيارتك وانطلق في طريقك!</string>
+    <string name="used_cars">سيارات مستعملة</string>
+    <string name="luxury_cars">سيارات الفاخرة</string>
+    <string name="electric_cars">سيارات كهربائية</string>
+    <string name="family_cars">سيارات عائلية</string>
+    <string name="best_price">أفضل سعر</string>
+    <string name="used_cars_deals">عروض السيارات المستعملة</string>
+    <string name="buying_tips">نصائح الشراء</string>
+    <string name="rental_tips">نصائح الإيجار</string>
+    <string name="luxury_cars_rentals">سيارات الفاخرة للإيجار</string>
+    <string name="long_term_rentals">تأجير لفترات طويلة</string>
+    <string name="short_term_rentals">تأجير لفترات قصيرة</string>
+    <string name="new_rent_deals">عروض إيجار جديدة</string>
+    <string name="luxury_rentals">سيارات الفاخرة للإيجار</string>
+    <string name="family_rentals">سيارات عائلية للإيجار</string>
+    <string name="best_price_rentals">أفضل سعر للإيجار</string>
+    <string name="car">سيارة</string>
+    <string name="spare">قطعة غيار</string>
+    <string name="rentals">سيارات للإيجار</string>
 
     <!-- car details -->
     <string name="basic">التفاصيل الأساسية</string>
-    <string name="features">المميزات</string>
     <string name="specifications">المواصفات</string>
     <string name="rating">التقييم</string>
-    <string name="mark_as_sold">تم البيع</string>
+    <string name="about">حول</string>
     <string name="make">الشركة</string>
     <string name="model">الموديل</string>
     <string name="model_variant">الفئة</string>
@@ -76,465 +148,120 @@
     <string name="seats">المقاعد</string>
     <string name="seat_material">مادة المقعد</string>
     <string name="plate_type">نوع الرقم</string>
-    <string name="audio_and_communication">الصوت والاتصالات</string>
-    <string name="driver_assistance">مساعدة السائق</string>
-    <string name="exterior_features">الميزات الخارجية</string>
-    <string name="interior_features">الميزات الداخلية</string>
-    <string name="illumination">الإضاءة</string>
-    <string name="performance">الأداء</string>
-    <string name="engine__mechanics">المحرك والأداء</string>
-    <string name="dimensions__capacity">الأبعاد والسعة</string>
-    <string name="battery__charging">البطارية والشحن</string>
-    <string name="delete_your_ad">حذف إعلانك</string>
-    <string name="are_you_sure_you_want_to_delete_this_ad_this_process_can_not_be_undone">هل أنت متأكد من رغبتك في حذف هذا الإعلان؟ لا يمكن التراجع عن هذه العملية.</string>
-    <string name="delete">حذف</string>
-    <string name="cancel">إلغاء</string>
-    <string name="renew_the_ad">تجديد الإعلان</string>
-    <string name="engine_size">حجم المحرك</string>
-    <string name="engine_power">قوة المحرك</string>
-    <string name="engine_torque">عزم المحرك</string>
-    <string name="acceleration_0_to_100_">التسارع (من 0 إلى 100)</string>
-    <string name="top_speed">السرعة القصوى</string>
-    <string name="cylinders">سلندرات</string>
-    <string name="fuel_tank_capacity">سعة خزان الوقود</string>
-    <string name="gross_vehicle_weight">وزن السيارة الإجمالي</string>
-    <string name="minimum_kerb_weight">الوزن الأدنى للسيارة</string>
-    <string name="max_loading_weight">أقصى وزن التحميل</string>
-    <string name="boot_space">مساحة صندوق الأمتعة</string>
-    <string name="height">الارتفاع</string>
-    <string name="width">العرض</string>
-    <string name="length">الطول</string>
-    <string name="wheelbase">قاعدة العجلات</string>
-    <string name="capacity">السعة</string>
-    <string name="range">المدى</string>
-    <string name="energy_consumption">استهلاك الطاقة</string>
-    <string name="battery_type">نوع البطارية</string>
-    <string name="what_kind_of_account_are_you_creating_">ما نوع الحساب الذي تقوم بإنشائه؟</string>
+    <string name="description">الوصف</string>
+    <string name="similar_cars">سيارات مماثلة</string>
 
-    <!-- Baz -->
-    <string name="smart_search">البحث الذكي</string>
-    <string name="enter_your_budget_make_or_model_and_baz_quickly_finds_the_cars_that_match_your_needs">أدخل ميزانيتك والشركة والموديل، وسيقوم باز بتحديد أنسب السيارات لك.</string>
-    <string name="quick_comparison">مقارنة سريعة</string>
-    <string name="compare_multiple_cars_sidebyside_and_see_the_key_differences_instantly">قم بمقارنة السيارات جنبًا إلى جنب واطلع على الاختلافات الرئيسية على الفور.</string>
-    <string name="market_insights">تحليلات السوق</string>
-    <string name="get_updates_on_average_prices_and_availability_so_you_know_if_youre_getting_a_good_deal">ابق على اطلاع على أسعار السوق ومدى توفرها حتى تتمكن من تأمين الصفقة الصحيحة.</string>
-    <string name="ask_baz_anything">اسأل باز أي شيء!</string>
+    <!-- Check here for the car’s available spares , everything you might need to keep it running smoothly. -->
 
-    <!-- Sell Car -->
-    <string name="sell_your_car">بيع سيارتك</string>
-    <string name="you_can_write_it_or_photograph_it_and_we_will_take_care_of_the_rest">اكتبه أو قم بتصويره، وسنتولى الباقي.</string>
-    <string name="chassis_number_vin">رقم الشاصي </string>
-    <string name="search_vin_number">ابحث عن رقم الشاصي</string>
-    <string name="proceed_without_vin_number">تابع بدون رقم الشاصي</string>
-    <string name="how_to_find_the_vin">كيف تجد رقم الشاصي؟</string>
-    <string name="behind_the_windshield_from_the_drivers_side">خلف الزجاج الأمامي من جانب السائق</string>
-    <string name="on_the_drivers_door_frame">على إطار باب السائق</string>
-    <string name="you_must_confirm_your_phone_number_to_be_able_to_publish_your_ad">قم بتأكيد رقم هاتفك لنشر إعلانك.</string>
-    <string name="verify_now">أكد الآن</string>
-    <string name="pictures">الصور</string>
-    <string name="car_detalis">تفاصيل السيارة</string>
-    <string name="payment">الدفع</string>
-    <string name="main_photo_to_the_car">الصورة الرئيسية للسيارة</string>
-    <string name="photo_2">الصورة 2</string>
-    <string name="photo_3">الصورة 3</string>
-    <string name="photo_4">الصورة 4</string>
-    <string name="more_photos">المزيد من الصور</string>
-    <string name="you_must_uploade_at_least_4_images">يجب ان تحمل 4 صور للسيارة على الأقل</string>
-    <string name="video_of_the_car_if_available">فيديو للسيارة (إن وجد)</string>
-    <string name="next">التالي</string>
-    <string name="back">السابق</string>
-    <string name="upload_your_car_images_and_let_ako_sayara_ai_simplify_your_car_posting_process">قم بتحميل صور سيارتك ودع اكو سيارة AI يبسط عملية نشر سيارتك</string>
-    <string name="search_for_a_model">البحث في الموديلات</string>
-    <string name="search_for_a_model_variant">البحث في الفئات</string>
-    <string name="car_description">وصف السيارة</string>
-    <string name="price">السعر</string>
-    <string name="price_">السعر $</string>
-    <string name="price_in_iqd">السعر بالدينار العراقي</string>
-    <string name="finance">أقساط </string>
-    <string name="no">لا</string>
-    <string name="yes">نعم</string>
-    <string name="ad_label">ملصق إعلاني</string>
-    <string name="full_option">كامل المواصفات</string>
-    <string name="brand_new_label">الموديل الحديث</string>
-    <string name="new_price">السعر الجديد</string>
-    <string name="brand_warranty">ضمان الوكالة</string>
-    <string name="choose_plan">اختر الاشتراك</string>
-    <string name="show_your_ad_everywhere">اعرض إعلانك في كل مكان</string>
-    <string name="would_you_like_to_boost_your_ad">هل ترغب في ترويج إعلانك؟</string>
-    <string name="you_will_get">سوف تحصل على</string>
-    <string name="7_day">7 أيام</string>
-    <string name="14_day">14 يوم</string>
-    <string name="30_day">30 يوم</string>
-    <string name="promotes_your_advert_inside_the_ako_sayara_app">روج إعلانك داخل تطبيق اكو سيارة</string>
-    <string name="push_it_to_the_top_of_search_results_for_more_visibility">ادفع إعلانك إلى أعلى نتائج البحث لتحقيق رؤية أكبر.</string>
-    <string name="would_you_like_to_promote_your_ad_on_social_media">هل ترغب في الترويج لإعلانك على وسائل التواصل الاجتماعي؟</string>
-    <string name="promotes_your_advert_on_social_media_platforms">روج إعلانك على قنوات التواصل الاجتماعي</string>
-    <string name="reach_a_wider_audience_beyond_the_app">الوصول إلى جمهور أوسع خارج التطبيق</string>
-    <string name="ad_boost">ترويج الإعلان</string>
-    <string name="social_media_boost">ترويج على وسائل التواصل الاجتماعي</string>
-    <string name="tax">الضريبة</string>
-    <string name="total_price">السعر الكلي</string>
-    <string name="pay">الدفع</string>
-    <string name="our_advanced_ai_is_working_now_to_check_every_detail_and_make_sure_your_car_listing_stands_out">يعمل الذكاء الاصطناعي المتطور لدينا الآن على مراجعة كل التفاصيل للتأكد من أن إعلان سيارتك مميز.</string>
-    <string name="sit_back_while_we_use_the_latest_technology_to_find_the_most_accurate_information_for_your_vehicle">استرخِ بينما نستخدم أحدث التقنيات للعثور على أدق المعلومات حول سيارتك.</string>
-    <string name="thanks_for_trusting_ako_sayara_your_listing_will_be_ready_with_verified_details_in_just_a_moment">شكرًا لثقتك في اكو سيارة، إعلانك سيكون جاهزًا مع تفاصيل موثوقة خلال لحظات.</string>
-    <string name="the_ad_was_successfully_published">لقد تم نشر إعلانك بنجاح وهو الآن في انتظار الموافقة.</string>
-    <string name="you_can_see_it_in_your_ads_under_review">يمكنك مشاهدته في إعلاناتك قيد المراجعة.</string>
-    <string name="this_is_my_car">هذه سيارتي</string>
-    <string name="this_is_not_my_car">هذه ليست سيارتي</string>
-    <string name="american_import">وارد أمريكي</string>
-    <string name="japanese_import">وارد ياباني</string>
-    <string name="korean_import">وارد كوري</string>
-    <string name="european_import">وارد أوروبي</string>
-    <string name="chinese_import">وارد صيني</string>
-    <string name="arab_gulf_import">وارد خليجي</string>
-    <string name="other_specs">وارد أخرى</string>
-    <string name="excellent_with_no_defects">ممتازة بدون عيوب</string>
-    <string name="parts">قطعة</string>
-    <string name="part">قطعة</string>
-    <string name="total_repaint">معادة الطلاء</string>
-    <string name="fabric">قماش</string>
-    <string name="leather">جلد</string>
-    <string name="mix">نصف جلد</string>
-    <string name="suede">شامواه</string>
-    <string name="suede__leather">شامواه وجلد طبيعي</string>
-    <string name="bi_fuel">ثنائية الوقود</string>
-    <string name="diesel">ديزل</string>
-    <string name="diesel_plugin">ديزل كهربائي هجين</string>
-    <string name="electric">كهربائي</string>
-    <string name="petrol">بنزين</string>
-    <string name="petrol_hybrid">بنزين هجين</string>
-    <string name="gas">غاز</string>
-    <string name="petrol_plugin_hybrid">بنزين كهربائي هجين</string>
-    <string name="unlisted">غير مدرج</string>
-    <string name="automatic">أوتوماتيك</string>
-    <string name="manual">عادي</string>
-    <string name="saloon">صالون</string>
-    <string name="pickup"> بيك اب</string>
-    <string name="mpv"> متعددة الأغراض</string>
-    <string name="van">فان</string>
-    <string name="hatchback">هاتشباك</string>
-    <string name="suv">دفع رباعي</string>
-    <string name="estate"> ستيشن</string>
-    <string name="convertible"> مكشوفة</string>
-    <string name="coupe">كوبيه</string>
-    <string name="choose">اختر</string>
+    <!-- Engine and performance -->
 
-    <!-- Rent car -->
-    <string name="rent_your_car">أجر سيارتك </string>
-    <string name="daily">يومياً</string>
-    <string name="weekly">أسبوعياً</string>
-    <string name="monthly">شهرياً</string>
+    <!-- Engine size -->
 
-    <!-- Edit Ads -->
-    <string name="edit_your_ads">عدل إعلانك</string>
-    <string name="the_ad_was_successfully_edited">لقد تم تعديل إعلانك بنجاح.</string>
-    <string name="you_can_see_it_in_your_ads">يمكنك رؤيته في إعلاناتك.</string>
-    <string name="save_change">حفظ التغييرات</string>
+    <!-- Engine power -->
 
-    <!-- My Ads -->
-    <string name="active">الاعلانات الحية</string>
-    <string name="under_review">قيد المراجعة</string>
-    <string name="soon_to_expire">تنتهي صلاحيته قريبا</string>
-    <string name="expired">انتهت صلاحيته</string>
-    <string name="sold">تم البيع</string>
-    <string name="pending_approval">قيد الموافقة</string>
-    <string name="edit">تعديل</string>
-    <string name="rented">تم الإيجار</string>
-    <string name="day_left">يوم متبقي</string>
-    <string name="days_left">أيام متبقية</string>
-    <string name="expire">انتهت صلاحيته</string>
-    <string name="sold_to">تم بيعها إلى</string>
-    <string name="rented_to">تم تأجيرها إلى</string>
-    <string name="someone_out_the_ako_sayara">خارج اكو سيارة</string>
-    <string name="this_car_was_sold">تم بيع هذه السيارة</string>
-    <string name="where_was_the_car_sold">أين بيعت السيارة؟</string>
-    <string name="inside_ako_sayara">داخل اكو سيارة</string>
-    <string name="outside_ako_sayara">خارج اكو سيارة</string>
-    <string name="this_car_was_rented">تم تأجير هذه السيارة</string>
-    <string name="where_was_the_car_rent">أين تم تأجير السيارة؟</string>
-    <string name="confirm">تأكيد</string>
-    <string name="this_car_was_successfully_sold">تم بيع هذه السيارة بنجاح</string>
-    <string name="you_can_see_the_car_in_your_sold_ads">يمكنك رؤيتها في إعلاناتك المباعة</string>
-    <string name="this_car_was_sold_to">تم بيع هذه السيارة ل</string>
-    <string name="choose_the_buyer">اختر المشتري</string>
-    <string name="buyers_name">اسم المشتري</string>
-    <string name="this_car_was_rented_to">تم تأجير هذه السيارة ل</string>
-    <string name="confirm_this_is_the_buyer">أكد أن هذا هو المشتري</string>
-    <string name="you_do_not_have_any_ads">ليس لديك أي إعلانات</string>
+    <!-- Engine torque -->
 
-    <!-- Check my car -->
-    <string name="check_your_car">تحقق من سيارتك</string>
-    <string name="you_must_confirm_your_phone_number_to_be_able_to_check_your_car">قم بتأكيد رقم هاتفك للتحقق من سيارتك.</string>
-    <string name="guaranteed_secure_transactions_your_payment_is_processed_with_the_utmost_care_and_encryption_for_a_worryfree_experience">ضمان سلامة تعاملات الدفع: تتم معالجة دفع أموالك بأقصى قدر من العناية والتشفير للحصول على تجربة خالية من القلق.</string>
-    <string name="gain_access_to_car_information_confidently_ensuring_a_transparent_and_trusted_transaction">يمكنك الوصول إلى معلومات السيارة بثقة، مما يضمن إجراء معاملة شفافة وموثوقة.</string>
-    <string name="your_one_time_payment_ensures_access_to_extensive_car_information_if_details_are_not_found_rest_easy_no_charge_will_be_applied_prioritizing_your_confidence_in_our_service">يضمن دفعك لمرة واحدة الوصول إلى معلومات شاملة عن السيارة. إذا لم يتم العثور على التفاصيل، فلا تقلق، فلن يتم تطبيق أي رسوم دفع، مع إعطاء الأولوية لثقتك في خدمتنا</string>
-    <string name="standard_seating">أماكن جلوس عادية</string>
-    <string name="tiers">الإطارات</string>
-    <string name="interior_trim">المواصفات الداخلية</string>
-    <string name="drive_line">خط القيادة</string>
-    <string name="destination_charge">رسوم الوجهة</string>
-    <string name="powertrain_distance">مسافة توليد القوة</string>
-    <string name="powertrain_duration">مدة توليد القوة</string>
-    <string name="basic_distance">المسافة الأساسية</string>
-    <string name="basic_duration">المدة الأساسية</string>
-    <string name="rust_distance">مسافة الصدأ</string>
-    <string name="curb_weight_automatic">الوزن الفارغ اوتوماتيكي</string>
-    <string name="highway_mileage">عدد الكيلومترات في الطريق السريع</string>
-    <string name="turning_diameter">قطر الدوران</string>
-    <string name="city_mileage">عدد الكيلومترات داخل المدينة</string>
-    <string name="engine">حجم المحرك</string>
-    <string name="ground_clearance">الخلوص الأرضي للسيارة</string>
-    <string name="rear_shoulder_tie_downs">أحزمة ربط الكتف الخلفية للسيارة</string>
-    <string name="front_shoulder_room">مساحة الكتف الأمامية</string>
-    <string name="front_headroom">مساحة الرأس الأمامية</string>
-    <string name="front_leg_room">مساحة للساقين الأمامية</string>
-    <string name="fuel_tank">خزان الوقود</string>
-    <string name="cargo_volume">حجم صندوق البضائع</string>
-    <string name="rear_hip_room">غرفة الورك الخلفية</string>
-    <string name="rear_leg_room">المساحة الخلفية للأرجل</string>
-    <string name="rear_headroom">مساحة الرأس الخلفية</string>
-    <string name="suspension__brakes">أنظمة التعليق والفرامل</string>
-    <string name="front_brake">الفرامل الأمامية</string>
-    <string name="rear_brake_type">نوع الفرامل الخلفية</string>
-    <string name="anti_break_system">نظام منع انغلاق المكابح</string>
-    <string name="rear_spring_type">نوع النابض الخلفية</string>
-    <string name="rear_suspension">نظام التعليق الخلفي</string>
-    <string name="steering_type">نوع المقود</string>
-    <string name="front_spring_type">نوع النابض الأمامي</string>
-    <string name="front_suspension">نظام التعليق الأمامي</string>
-    <string name="production__invoice">الإنتاج والفاتورة</string>
-    <string name="invoice">الفاتورة</string>
-    <string name="made_in">صنع في</string>
-    <string name="trim">الفئة</string>
-    <string name="production_seq_number">رقم تسلسل الإنتاج</string>
-    <string name="there_was_no_pictures_of_your_car">عذرًا، لم نتمكن من العثور على سيارتك التي تحتوي على رقم الشاصي المقدم</string>
-    <string name="no_money_will_be_deducted_from_you">لم يتم خصم أي رسوم من بطاقتك</string>
-    <string name="year">السنة</string>
-    <string name="depth">العمق</string>
-    <string name="4_wheel_drive__axle_wheel_drive">الدفع الرباعي / الدفع بالعجلات المحورية</string>
-    <string name="pickup_truck_bed_liner">صافي صندوق البضائع</string>
-    <string name="cd_player">مشغل سي دي</string>
-    <string name="abs_breaks">الفرامل ABS</string>
-    <string name="amfm_radio">راديو ايه ام اف ام</string>
-    <string name="cd_changer">مغير الأقراص المضغوطة</string>
-    <string name="dvd_player">مشغل دي في دي</string>
-    <string name="fog_lights">مصابيح الضباب</string>
-    <string name="rear_wiper">ماسحة خلفية</string>
-    <string name="skid_plate">لوحة انزلاقية</string>
-    <string name="subwoofer">مضخم صوت</string>
-    <string name="track_rear">المسار الخلفي</string>
-    <string name="tachometer">مقياس سرعة الدوران</string>
-    <string name="track_front">المسار الأمامي</string>
-    <string name="alloy_wheels">عجلات معدنية</string>
-    <string name="cargo_length">طول صندوق البضائع</string>
-    <string name="first_aid_kit">عدة الإسعافات الأولية</string>
-    <string name="front_air_dam">السد الهوائي الأمامي</string>
-    <string name="leather_seats">مقاعد جلدية</string>
-    <string name="maximum_gvwr">أقصى GVWR</string>
-    <string name="rear_spoiler">سبويلر خلفي</string>
-    <string name="steel_wheels">عجلات فولاذية</string>
-    <string name="width_at_wall">العرض على الحائط</string>
-    <string name="chrome_wheels">عجلات كروم</string>
-    <string name="driver_airbag">الكيس الهوائي للسائق</string>
-    <string name="front_hip_room">مساحة الورك الأمامية</string>
-    <string name="keyless_entry">الدخول بدون مفتاح</string>
-    <string name="power_sunroof">فتحة سقف كهربائية</string>
-    <string name="power_windows">نوافذ كهربائية</string>
-    <string name="removable_top">الجزء العلوي القابل للإزالة</string>
-    <string name="run_flat_tires">تشغيل الإطارات المثقوبة</string>
-    <string name="rust_duration">مدة الصدأ</string>
-    <string name="splash_guards">حراس دفقة</string>
-    <string name="standard_gvwr">GVWR القياسية</string>
-    <string name="tilt_steering">إماله المقود</string>
-    <string name="trip_computer">كمبيوتر الرحلة</string>
-    <string name="cruise_control">مثبت السرعة</string>
-    <string name="manual_sunroof">فتحة سقف يدوية</string>
-    <string name="maximum_towing">الحد الأقصى للسحب</string>
-    <string name="navigation_aid">مساعدة الملاحة</string>
-    <string name="power_trunk_lid">غطاء صندوق الطاقة</string>
-    <string name="running_boards">لوحات الكهرباء</string>
-    <string name="cargo_area_cover">غطاء منطقة صندوق الشحن</string>
-    <string name="cassette_player">مشغل كاسيت</string>
-    <string name="interval_wipers">مساحات الفاصلة</string>
-    <string name="maximum_payload">الحمولة القصوى</string>
-    <string name="power_door_locks">أقفال أبواب كهربائية</string>
-    <string name="remote_ignition">تشغيل عن بعد</string>
-    <string name="standard_towing">السحب قياسي</string>
-    <string name="air_conditioning">مكيف الهواء</string>
-    <string name="deep_tinted_glass">زجاج ملون عميق</string>
-    <string name="front_cooled_seat">مقعد أمامي مبرد</string>
-    <string name="front_heated_seat">مقعد أمامي مدفأ</string>
-    <string name="front_side_airbag">الكيس الهوائي جانبي أمامي</string>
-    <string name="genuine_wood_trim">زخرفة خشبية أصلية</string>
-    <string name="optional_seating">مقاعد اختيارية</string>
-    <string name="passenger_airbag">الكيس الهوائي للركاب</string>
-    <string name="passenger_volume">سعة الركاب</string>
-    <string name="standard_payload">الحمولة القياسية</string>
-    <string name="traction_control">التحكم في الجر</string>
-    <string name="curb_weight_manual">دليل الوزن الصافي</string>
-    <string name="telematic_system">نظام عن بعد</string>
-    <string name="tow_hitch_receiver">جهاز استقبال وصلة السحب</string>
-    <string name="vehicle_anti_theft">مكافحة سرقة السيارة</string>
-    <string name="width_at_wheel_well">العرض في عجلة جيدا</string>
-    <string name="cargo_area_tie_down">منطقة صندوق الحمولة مربوطة لأسفل</string>
-    <string name="full_size_spare_tire">إطار احتياطي كامل الحجم</string>
-    <string name="rain_sensing_wipers">ماسحات استشعار المطر</string>
-    <string name="rear_window_defogger">مزيل ضباب الزجاج الخلفي</string>
-    <string name="tilt_steering_column">إمالة عمود القيادة</string>
-    <string name="automatic_headlights">المصابيح الأمامية أوتوماتيكية</string>
-    <string name="front_split_bench_seat">مقعد أمامي مقسم</string>
-    <string name="heated_steering_wheel">عجلة قيادة مُدفأة</string>
-    <string name="locking_differential">قفل التفاضلية</string>
-    <string name="second_row_heated_seat">مقعد الصف الثاني مدفأ</string>
-    <string name="second_row_side_airbag">كيس هوائي جانبي للصف الثاني</string>
-    <string name="tire_pressure_monitor">مراقبة ضغط الإطارات</string>
-    <string name="trunk_anti_trap_device">جهاز مضاد للفخ</string>
-    <string name="adjustable_foot_pedals">دواسات القدم قابلة للتعديل</string>
-    <string name="child_safety_door_locks">أقفال أبواب لسلامة الأطفال</string>
-    <string name="daytime_running_lights">أضواء التشغيل النهارية</string>
-    <string name="electronic_parking_aid">المساعد الإلكتروني في ركن السيارة</string>
-    <string name="front_power_memory_seat">مقعد أمامي مزود بذاكرة كهربائية</string>
-    <string name="heated_exterior_mirror">مرآة خارجية مدفأة</string>
-    <string name="leather_steering_wheel">عجلة قيادة جلدية</string>
-    <string name="second_row_folding_seat">مقعد الصف الثاني قابل للطي</string>
-    <string name="automatic_load_leveling">التسوية التلقائية للحمل</string>
-    <string name="side_head_curtain_airbag">كيس هوائي جانبي للرأس</string>
-    <string name="third_row_removable_seat">مقعد الصف الثالث قابل للإزالة</string>
-    <string name="second_row_removable_seat">مقعد الصف الثاني قابل للإزالة</string>
-    <string name="second_row_sound_controls">عناصر التحكم بالصوت في الصف الثاني</string>
-    <string name="front_power_lumbar_support">دعم أسفل الظهر الأمامي بالطاقة للسيارة</string>
-    <string name="limited_slip_differential">فارق الانزلاق المحدود</string>
-    <string name="load_bearing_exterior_rack">حامل خارجي يحمل الحمل</string>
-    <string name="power_sliding_side_van_door">باب الشاحنة الجانبي المنزلق كهربائيًا</string>
-    <string name="voice_activated_telephone">هاتف يعمل بالصوت</string>
-    <string name="pickup_truck_cargo_box_light">ضوء صندوق شحن شاحنة صغيرة</string>
-    <string name="telescopic_steering_column">عمود التوجيه التلسكوبي</string>
-    <string name="towing_preparation_package">حزمة التحضير للسحب</string>
-    <string name="electronic_brake_assistance">مساعدة الفرامل الإلكترونية</string>
-    <string name="locking_pickup_truck_tailgate">قفل الباب الخلفي للشاحنة</string>
-    <string name="glass_rear_window_on_convertible">زجاج النافذة الخلفية في السيارة المكشوفة</string>
-    <string name="sliding_rear_pickup_truck_window">نافذة شاحنة بيك اب خلفية منزلقة</string>
-    <string name="steering_wheel_mounted_controls">أدوات التحكم المثبتة على عجلة القيادة</string>
-    <string name="wind_deflector_for_convertible">عاكس الرياح للتحويل</string>
-    <string name="power_adjustable_exterior_mirror">مرآة خارجية قابلة للتعديل كهربائياً</string>
-    <string name="vehicle_stability_control_system">نظام التحكم بثبات السيارة</string>
-    <string name="driver_multi_adjustable_power_seat">مقعد السائق الكهربائي متعدد الضبط</string>
-    <string name="high_intensity_discharge_headlights">مصابيح أمامية ذات تفريغ عالي الكثافة</string>
-    <string name="front_side_airbag_with_head_protection">كيس هوائي أمامي جانبي مع حماية للرأس</string>
-    <string name="passenger_multi_adjustable_power_seat">مقعد كهربائي متعدد قابل للتعديل للركاب</string>
-    <string name="second_row_multi_adjustable_power_seat">مقاعد الصف الثاني قابلة للتعديل كهربائياً</string>
-    <string name="electrochromic_exterior_rearview_mirror">مرآة الرؤية الخلفية الخارجية الكهروكرومية</string>
-    <string name="electrochromic_interior_rearview_mirror">مرآة الرؤية الخلفية الداخلية الكهروكروميك</string>
-    <string name="second_row_side_airbag_with_head_protection">كيس هوائي جانبي للصف الثاني مع حماية للرأس</string>
-    <string name="separate_driver_front_passenger_climate_controls">تحكم منفصل بالمناخ للسائق والراكب الأمامي</string>
-    <string name="gallon">جالون</string>
-    <string name="in">بوصة</string>
-    <string name="ft">قدم</string>
-    <string name="miles">اميال</string>
-    <string name="bisque_leather_interior__light_gray_leather_interior">تصميم داخلي من الجلد البيسك | جلد داخلي باللون الرمادي الفاتح</string>
-    <string name="unlimited_mile">عدد غير محدود من الأميال</string>
-    <string name="month">شهر</string>
-    <string name="alien_2__bright_silver__clear_white__shadow_black">الغريبة 2 | فضي لامع | كلير وايت | الظل الأسود</string>
-    <string name="disc">قرص</string>
-    <string name="semi">نصف</string>
-    <string name="wheel_abs">نظام منع انغلاق المكابح (ABS) للعجلات</string>
-    <string name="coil">ملف</string>
-    <string name="speed_manual"> سرعات يدوي</string>
-    <string name="black_cloth">أسود، قماش</string>
-    <string name="speed_automatic"> سرعات اوتوماتيك</string>
-    <string name="sedan">صالون</string>
-    <string name="wagon"> ستيشن</string>
-    <string name="sports_van">دفع رباعي</string>
-    <string name="sport_utility"> متعددة الأغراض</string>
-    <string name="pickup_truck"> بيك اب</string>
-    <string name="minivan"> متعددة الأغراض</string>
-    <string name="crossover">دفع رباعي</string>
-    <string name="station_wagon"> متعددة الأغراض</string>
+    <!-- Cylinders -->
 
-    <!-- profile -->
-    <string name="change_language">تغيير اللغة</string>
-    <string name="appearance">المظهر</string>
-    <string name="push_notifications">إشعارات</string>
-    <string name="guides">إرشادات</string>
-    <string name="faqs">الأسئلة الشائعة</string>
-    <string name="term__conditions">الأحكام والشروط</string>
-    <string name="privacy_policy">سياسة الخصوصية</string>
-    <string name="settings">الإعدادات</string>
-    <string name="about">حول</string>
-    <string name="other">أخرى</string>
-    <string name="transaction">النشاط التجاري </string>
-    <string name="check_my_car">تحقق من سيارتك</string>
-    <string name="personal_information">المعلومات الشخصية</string>
-    <string name="my_profile">ملفي الشخصي</string>
-    <string name="logout">تسجيل خروج</string>
-    <string name="delete_account">حذف الحساب</string>
-    <string name="viewing_rate">معدل المشاهدة</string>
-    <string name="product_views">مشاهدات الإعلانات</string>
-    <string name="profile_views">مشاهدات الحساب</string>
-    <string name="most_viewed">الأكثر مشاهدة</string>
-    <string name="invoice_id">رقم الفاتورة</string>
-    <string name="view">عرض</string>
-    <string name="status">الحالة</string>
-    <string name="male">ذكر</string>
-    <string name="female">أنثى</string>
-    <string name="main_information">المعلومات الرئيسية</string>
-    <string name="documents">ملفات اعرف عميلك (KYC)</string>
-    <string name="change">تغيير</string>
-    <string name="pending">في انتظار الموافقة</string>
-    <string name="approval">موافق عليه</string>
-    <string name="your_kyc_has_been_rejected">لقد تم رفض ملفات اعرف عميلك (KYC)</string>
-    <string name="dark">داكن</string>
-    <string name="confirm_logout">تأكيد تسجيل الخروج</string>
-    <string name="you_are_about_to_log_out_of_your_account">هل أنت متأكد أنك تريد تسجيل الخروج</string>
-    <string name="contact_us">اتصل بنا</string>
-    <string name="name">الاسم</string>
-    <string name="day_of_birth">تاريخ الميلاد</string>
-    <string name="select_a_reason">اختر السبب</string>
-    <string name="your_massage">رسالتك</string>
-    <string name="this_will_be_a_permanent_action_are_you_sure_you_want_to_close_your_account">هذا سيكون عملاً دائماً! هل أنت متأكد أنك تريد إغلاق حسابك؟</string>
-    <string name="delete_my_account">حذف حسابي</string>
-    <string name="disinterest_or_inactivity">عدم الاهتمام أو عدم النشاط</string>
-    <string name="dissatisfaction_with_the_services">عدم الرضا عن الخدمات</string>
-    <string name="switching_to_competing_services">التحول إلى الخدمات المنافسة</string>
-    <string name="fraudulent_activity">نشاط احتيالي</string>
-    <string name="discontinuation_of_services">توقف الخدمات</string>
-    <string name="privacy_concerns">المخاوف المتعلقة بالخصوصية</string>
-    <string name="security_concerns">مخاوف أمنية</string>
-    <string name="payment_issues">مشاكل تتعلق بالدفع</string>
-    <string name="to_delete_your_account_a_one_time_password_has_been_sent_to_your_whatsapp">لحذف حسابك، تم إرسال كلمة مرور لمرة واحدة على الواتساب الخاص بك</string>
-    <string name="support">الدعم</string>
-    <string name="enquiring_about_something">الاستفسار عن شيئ</string>
-    <string name="enquire_now">استفسر الآن</string>
-    <string name="you_do_not_have_any_request">ليس لديك أي معاملات مالية</string>
+    <!-- Top speed -->
 
-    <!-- Messages -->
-    <string name="typing">جاري الكتابة</string>
-    <string name="draft">مسودة</string>
-    <string name="all">الكل</string>
-    <string name="unread">غير مقروءة</string>
-    <string name="search_in_messages">البحث في الرسائل</string>
-    <string name="select_the_attachment">حدد المرفق</string>
-    <string name="camera">كاميرا</string>
-    <string name="profile">الحساب </string>
-    <string name="my_location">الموقع</string>
-    <string name="document">مستند</string>
-    <string name="record">تسجيل</string>
-    <string name="send_your_live_location">شارك موقعك المباشر</string>
-    <string name="nearby_places">الأماكن القريبة</string>
-    <string name="send_your_current_location">أرسل موقعك الحالي</string>
-    <string name="send">إرسال</string>
-    <string name="message">اكتب رسالة</string>
-    <string name="write_a_caption">اكتب رسالة</string>
-    <string name="are_you_sure_you_want_to_delete_this_conversation">هل أنت متأكد أنك تريد حذف هذه الرسالة؟</string>
-    <string name="the_operation_was_successful">تم حذف الرسالة بنجاح</string>
+    <!-- Acceleration (0 to 100 ) -->
 
-    <!-- The conversation was deleted -->
-    <string name="today">اليوم</string>
-    <string name="yesterday">أمس</string>
-    <string name="unread_massage">رسالة غير مقروءة</string>
-    <string name="you_do_not_have_any_messages">ليس لديك أي رسالة</string>
-    <string name="1_month_ago">منذ شهر</string>
-    <string name="year_ago">منذ سنة</string>
-    <string name="years_ago">منذ سنوات</string>
+    <!-- Battery and Charging -->
+
+    <!-- Battery type -->
+
+    <!-- Capacity -->
+
+    <!-- Usable capacity -->
+
+    <!-- Range -->
+
+    <!-- Battery -->
+
+    <!-- Capacity -->
+
+    <!-- Fuel tank capacity -->
+
+    <!-- Minimum kerb weight -->
+
+    <!-- Gross vehicle weight -->
+
+    <!-- Boot space -->
+
+    <!-- Max loading weight -->
+
+    <!-- Height -->
+
+    <!-- Length -->
+
+    <!-- Width -->
+
+    <!-- Wheelbase -->
+
+    <!-- Dimensions -->
+
+    <!-- Chat with Seller -->
+
+    <!-- Call seller -->
+
+    <!-- Audio and Communication -->
+
+    <!-- Driver Assistance -->
+
+    <!-- Exterior features -->
+
+    <!-- Interior features -->
+
+    <!-- Illumination -->
+
+    <!-- Rate and review -->
+
+    <!-- Reviews -->
+
+    <!-- All users can view reviews that include your account information. More information -->
+
+    <!-- Write your experience -->
+
+    <!-- Optional -->
+
+    <!-- Governorate -->
+
+    <!-- Privet seller -->
+
+    <!-- Dealer -->
+
+    <!-- company profile -->
+
+    <!-- About -->
+
+    <!-- Cars -->
+
+    <!-- Rentals -->
+
+    <!-- Spare -->
+
+    <!-- our seller -->
+
+    <!-- please contact if you are interested -->
+
+    <!-- customer services -->
+
+    <!-- Open maps -->
+
+    <!-- Website -->
+
+    <!-- About us -->
+
+    <!-- working hours -->
+
+    <!-- Open -->
+
+    <!-- Closes -->
+
+    <!-- Closed -->
+
+    <!-- day -->
+
+    <!-- Search cars by name -->
 </resources>

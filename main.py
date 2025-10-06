@@ -4,7 +4,7 @@ import html
 from pathlib import Path
 
 # Load CSV
-csv_file = "/workspaces/parse_csv/Copy of AS new translation - Mobile Seller App.csv"
+csv_file = "/workspaces/parse_csv/Copy of AS new translation - Mobile Customer App.csv"
 df = pd.read_csv(csv_file)
 
 # Clean function for key names
